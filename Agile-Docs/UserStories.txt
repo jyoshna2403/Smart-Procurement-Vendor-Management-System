@@ -1,0 +1,6 @@
+User Stories:
+
+1. Admin can add, update, and delete vendor details.
+2. Manager can approve or reject purchase requests.
+3. Employee can create and track requisitions.
+4. Vendor can upload invoices and view orders.
