@@ -1,0 +1,11 @@
+Smart Procurement Vendor Management System
+
+This system is designed to manage vendor-related activities such as vendor registration, procurement processes, purchase orders, invoices, and payments.
+
+Users of the system:
+- Admin: Manages vendors and system settings
+- Manager: Approves requests and monitors processes
+- Employee: Creates requisitions and tracks orders
+- Vendor: Uploads invoices and views purchase orders
+
+The system improves efficiency, transparency, and reduces manual work in procurement.
